@@ -1,10 +1,4 @@
-//
-// Layer
-//
-// This class implements a layer of processing units.
-//
-// David Noelle -- Tue Apr 24 15:51:19 PDT 2007
-//
+
 
 import java.util.*;
 
